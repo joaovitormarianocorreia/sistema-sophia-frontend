@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "nome": "Michel",
+      "certNasc": "123123",
+      "dataNasc": "2021-07-09",
+      "id": 1
+    },
+    {
+      "nome": "Michel",
+      "certNasc": "123123",
+      "dataNasc": "2021-07-09",
+      "id": 4
+    }
+  ]
+}
